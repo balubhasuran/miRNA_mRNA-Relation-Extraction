@@ -26,7 +26,8 @@ To run the project, use the following command:
 ### WorkFlow
 ![Project Screenshot](Images/Figure_1.png)
 
-
+### Annotation
+![Project Screenshot](Images/Figure_2.jpg)
 ## Contributing
 If you want to contribute to this project, please follow these steps:
 1. Fork the repository.
