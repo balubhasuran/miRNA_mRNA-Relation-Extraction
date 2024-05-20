@@ -24,7 +24,7 @@ To run the project, use the following command:
 
 
 ### WorkFlow
-!(images/Figure 1.png)
+![Project Screenshot](Images/Figure_1.png)
 
 
 ## Contributing
