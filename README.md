@@ -10,11 +10,11 @@ Applying genomics for predicting novel associations between miRNAs and genes and
 # Installation
 1. Clone the repository
    \`\`\`bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/balubhasuran/miRNA_mRNA-Relation-Extraction
    \`\`\`
 2. Navigate to the project directory
    \`\`\`bash
-   cd yourproject
+   cd miRNA_mRNA-Relation-Extraction
    \`\`\`
 
 ## Usage
@@ -24,7 +24,7 @@ To run the project, use the following command:
 
 
 ### WorkFlow
-![Main Screen](/images/Figure 1.png)
+!(images/Figure 1.png)
 
 
 ## Contributing
